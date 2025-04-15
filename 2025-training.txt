@@ -9,8 +9,10 @@
 9. Create a branch dev. Push the branch.
 10. Create a new feature branch by name first-feature from dev.
 11. Delete line 12 and 13. Add a new line after line 11.
-12. Push the changes to the feature branch. List all the branches.
-13. Raise a PR.
+
+***************removed lines********************
+
+
 14. Give your manager access to repo.
 15. Don't approve the PR
 16. ===
