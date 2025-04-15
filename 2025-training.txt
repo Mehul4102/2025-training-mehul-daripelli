@@ -1,0 +1,17 @@
+1. Assignment: Intro to GitHub
+2. Download the github command line tool from the link: https://cli.github.com/
+3. Use file 2022-training.txt for github commits.
+4. Perform step 3-7 using the command line. Take screenshots which show each of the steps.
+5. Create a new repo 2022-training-<yourfirstname-lastname> with your egen account under your organization. Don’t use egen organization repo.
+6. Don't create any file at time of creating the repo.
+7. Clone the repo in your local.
+8. Add this file as an initial commit to the main branch.
+9. Create a branch dev. Push the branch.
+10. Create a new feature branch by name first-feature from dev.
+11. Delete line 12 and 13. Add a new line after line 11.
+12. Push the changes to the feature branch. List all the branches.
+13. Raise a PR.
+14. Give your manager access to repo.
+15. Don't approve the PR
+16. ===
+17. ++++++++
